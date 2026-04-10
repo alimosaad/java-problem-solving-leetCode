@@ -1,4 +1,4 @@
-package array_problems;
+package array_problems.concatenationOfArrays;
 
 public class ConcatenationOfArrays {
     public static int[] getConcatenating(int[] nums){
